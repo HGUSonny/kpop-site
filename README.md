@@ -16,6 +16,9 @@ Ruby Kiwi
 - 내비게이션 바 제작
 - 한국어 페이지와 영문 페이지 제작
 - 모바일 및 태블릿 반응형 웹 적용
+- 스크롤 등장 애니메이션 적용
+- 제품 카드 플로팅 애니메이션 적용
+- 버튼 및 카드 hover 애니메이션 적용
 
 ## 파일 구조
 ```txt
@@ -23,6 +26,7 @@ landing-page/
 ├─ index.html
 ├─ english.html
 ├─ style.css
+├─ script.js
 ├─ ruby-kiwi.png
 └─ README.md
 ```
@@ -30,6 +34,7 @@ landing-page/
 ## 사용 기술
 - HTML5
 - CSS3
+- JavaScript
 - Responsive Web Design
 
 ## 실행 방법
